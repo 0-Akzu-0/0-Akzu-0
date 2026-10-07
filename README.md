@@ -1,9 +1,16 @@
-## Hi, I'm Akzu👋
+
 
 <!--
 **0-Akzu-0/0-Akzu-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Hi, I'm Akzu👋
+
+# 💫 About Me:
+I am a student in BTS SIO (Higher Technical Certificate in Information Systems Organization).<br>
+
+# 💻 Tech Stack:
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,12 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I am a student in BTS SIO (Higher Technical Certificate in Information Systems Organization).<br>
-
-
-# 💻 Tech Stack:
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
